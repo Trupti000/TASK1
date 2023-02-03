@@ -1,0 +1,47 @@
+.row h1{
+    align-items: center;
+    justify-content: center;
+    color: brown;
+    font-size: 70px;
+    font-weight: bolder;
+    
+    
+}
+.row{
+    align-items: center;
+    justify-content: center;
+}
+.row h1{
+    align-items: center;
+    justify-content: center;
+    color: brown;
+    font-size: 70px;
+    font-weight: bolder;
+    justify-content: space-around;
+    padding: 25px;
+    margin: 25px;
+
+}
+.cont h1{
+    padding: 20px;
+    margin: 20px;
+    border: 20px;
+    align-items: center;
+    justify-content: center;
+    color: brown;
+    font-size: 70px;
+    font-weight: bolder; 
+    justify-content: space-around;
+}
+.img h1{
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 70px;
+    font-weight: bolder; 
+}
+.card-title{
+    color: blueviolet;
+    
+
+}
